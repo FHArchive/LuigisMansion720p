@@ -3,6 +3,7 @@
 [![License](https://img.shields.io/github/license/FredHappyface/LuigisMansion720p.svg?style=for-the-badge)](/LICENSE.md)
 [![Commit activity](https://img.shields.io/github/commit-activity/m/FredHappyface/LuigisMansion720p.svg?style=for-the-badge)](../../commits/master)
 [![Last commit](https://img.shields.io/github/last-commit/FredHappyface/LuigisMansion720p.svg?style=for-the-badge)](../../commits/master)
+[![Downloads](https://img.shields.io/github/downloads/FredHappyface/LuigisMansion720p/total.svg?style=for-the-badge)](../../releases)
 
 # LuigisMansion720p
 
@@ -51,9 +52,10 @@ Download the pack from the link above
 
 #### 720p
 
-The best way to do this is probably to download the repo as a zip file
+The best way to do this is probably to download `LuigisMansion720p.7z` from
+the releases
 
-1. Download this repo
+1. Download `LuigisMansion720p.7z` from the releases
 2. Copy the `LuigisMansion720p` Directory to
    `..\Dolphin Emulator\Load\Textures`
 3. Launch Dolphin
@@ -78,9 +80,10 @@ Tested to title screen only. Best to use dds version if at all possible.
 
 #### 720p ONLY
 
-The best way to do this is probably to download the repo as a zip file
+The best way to do this is probably to download `LuigisMansion720pPNG.7z` from
+the releases
 
-1. Download this repo
+1. Download `LuigisMansion720pPNG.7z` from the releases
 2. Copy the `LuigisMansion720pPNG` Directory to
    `..\Dolphin Emulator\Load\Textures`
 3. Launch Dolphin
