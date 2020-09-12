@@ -46,7 +46,7 @@ First things first, configure Dolphin to use textures
 Download the pack from the link above
 
 1. Download
-2. Copy the `GZ2` Directory from `Luigi's Mansion HD Texture Pack 1.0.1b.zip`
+2. Copy the `GLM` Directory from `Luigi's Mansion HD Texture Pack 1.0.1b.zip`
 	to `..\Dolphin Emulator\Load\Textures`
 3. Launch Dolphin
 
